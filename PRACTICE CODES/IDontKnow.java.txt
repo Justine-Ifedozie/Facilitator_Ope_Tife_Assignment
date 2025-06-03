@@ -1,0 +1,10 @@
+public class IDontKnow{
+public static void main(String[] args){
+
+int one = 3;
+int two = 0;
+if(one > two){
+System.out.print(one >  two);
+}
+}
+}
